@@ -23,6 +23,7 @@ Feel free to dive into my projects, join me on this exciting journey, and let's 
 - **Database**: 🗃️ SQL
 - **Infographics Design**: 📊 Data visualization, 📈 Information design
 - **Problem Solving**: 🧩 Analytical thinking, 🎨 Creative solutions
+- **Data Analysis**: 💼Excel
 - **Customer Service**: 📞 Communication, 👥 Client interactions
 - **Attention to Detail**: 🔍 Precise work, 📋 Thorough quality checks
 
@@ -58,32 +59,35 @@ These are just a few of the projects I've worked on. You can explore more in my 
   - Nour Palace Resort (Hotel Nour Palace Resort & Thalasso) ⭐⭐⭐⭐
   - Worked as a hotel cleaner at Nour Palace Resort, gaining valuable experience in maintaining cleanliness and order in a fast-paced environment, emphasizing attention to detail and the importance of a well-kept space.
 
-- 🚲 **Bike Rental Manager**
+- 🚲 **Space Manager**
   - Velocity Mahdia
-  - As a bike rental manager at Velocity Mahdia, I managed inventory, interacted with clients, and ensured a smooth and positive customer experience over the course of a year. This role enhanced my organizational and customer service skills.
+  - As a space manager at Velocity Mahdia, I managed inventory, interacted with clients, and ensured a smooth and positive customer experience over the course of a year. This role enhanced my organizational and customer service skills.
+
 
 These diverse work experiences have contributed to my skill set and my ability to adapt to various roles and responsibilities.
 
 ## Certifications
 
 - 📜 **Infographics Design Training (24 hours)**
-  - [Year]: Completed a 24-hour training program focused on learning Photoshop and illustration techniques for infographics design.
+  - [2019]: Completed a 24-hour training program focused on learning Photoshop and illustration techniques for infographics design.
 
 These certifications validate my skills and knowledge in various aspects of technology and software development.
 
 
 ## Contact Information
 
-- 📧 **Email**: [Mohamed Gara](garamohamed@gmail.com)
-- 📱 **LinkedIn**: [Mohamed Gara](https://www.linkedin.com/in/gara-mohamed-62516419a/)
+- 📧  [Email](garamohamed@gmail.com)
+- 📱 [LinkedIn](https://www.linkedin.com/in/gara-mohamed-62516419a/)
 
 Feel free to reach out to me via email or connect with me on LinkedIn and Twitter. I'm always open to networking, collaboration, and discussions related to software engineering and technology.
 
 ## Personal Interests and Hobbies
 
+- 🎥 **Film Making**: I have a keen interest in filmmaking and love creating visual stories through video production.
+
 - 🎸 **Playing Guitar**: I'm an avid guitarist, and I find playing music a perfect creative outlet and stress-reliever.
 
-- 🌱 **Open-Source Enthusiast**: Beyond coding, I enjoy contributing to open-source projects and being part of the vibrant tech community.
+- 💪 **Lifting**: I'm dedicated to my fitness journey and enjoy weightlifting to stay strong and healthy.
 
 - 🍽️ **Cooking**: Experimenting with new recipes and creating delicious dishes is both a hobby and a way to unwind.
 
