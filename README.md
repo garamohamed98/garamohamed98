@@ -3,7 +3,6 @@
 
 Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, **Spring Framework**, and **React**. I focus on creating scalable web applications and constantly adapt to new technologies. Feel free to explore my projects, and let's connect to build innovative solutions! 🚀
 
----
 
 ## 🎓 Education
 - **Bachelor of Science in Software Engineering**  
@@ -14,7 +13,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, *
   *Lycée Taher Sfar Mahdia*  
   2018-2019
 
----
+
 
 ## 🚀 Projects
 
@@ -26,7 +25,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, *
    👢 *BootsVitrine* is a mobile app built with React Native and Redux, offering an interactive showcase for footwear. Users can browse a curated collection of boots, view detailed descriptions, and enjoy a seamless, responsive experience on iOS and Android. With Redux for state management, it ensures smooth navigation and real-time updates, ideal for footwear enthusiasts or businesses.  
    🔗 [Repository: BootsVitrine](https://github.com/garamohamed98/DEVOctober)
 
----
+
 
 ## 💼 Work Experience
 
@@ -65,7 +64,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, *
 - 🧽 Maintained cleanliness and order in a fast-paced environment.  
 - 🧹 Focused on attention to detail and the importance of a well-maintained space for guest satisfaction.
 
----
+
 
 ## 🛠️ Skills
 
@@ -90,26 +89,26 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, *
 - **Additional Skills:**  
   Problem-solving, analytical thinking, attention to detail, creative solutions
 
----
+
 
 ## 🏆 Certifications
 
 - **Infographics Design Training (24 hours)**  
   📅 *2019*: Completed a 24-hour training program focused on learning **Photoshop** and illustration techniques for infographics design.
 
----
+
 
 ## 📞 Contact Information
 
 - 📱 [LinkedIn](https://www.linkedin.com/in/gara-mohamed-62516419a/)
 
----
+
 
 ## 🎨 Design Portfolio  
 
 - 🌟 **Behance**: [Your Behance Profile](https://www.behance.net/yourusername)
 
----
+
 
 ## 🌟 Personal Interests and Hobbies
 
@@ -119,6 +118,6 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in **Java**, *
 - 🍽️ **Cooking:** Experimenting with recipes and creating delicious dishes.  
 - 📚 **Reading:** Continuously learning to improve creativity and design thinking.
 
----
+
 
 These interests and hobbies provide a balanced and fulfilling aspect of my life beyond software engineering. 😊
